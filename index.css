@@ -33,6 +33,9 @@ body {
   align-items: center;
   padding: 50px;
 }
+h2 {
+  text-align: center;
+}
 #count-el {
   display: flex;
   background-color: rgb(220, 220, 220);
